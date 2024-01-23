@@ -1,4 +1,4 @@
-/**
+/*!
  * Copyright (c) Meta Platforms, Inc. and affiliates.
  *
  * @format
@@ -48,3 +48,4 @@ module.exports = {
   ...createTransformer(),
   createTransformer,
 };
+ 
