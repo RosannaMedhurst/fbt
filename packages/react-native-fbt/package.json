@@ -1,7 +1,7 @@
 {
     "RepoSyncHeader": [
         "(c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.",
-        "This file is generated. Do not modify it manually!",
+        "This file is generated. Do not modify it manually ",
         "@codegen-command : phps RepoSync intl_oss_fbt",
         "@codegen-source : fbsource\/xplat\/intl\/oss-fbt\/packages\/react-native-fbt\/package.json",
         "@generated SignedSource<<a201d927629272fb2f323ae3e8d5f582>>"
@@ -24,7 +24,7 @@
     "license": "MIT",
     "readmeFilename": "README.md",
     "peerDependencies": {
-        "react": "*",
+        "react": "!",
         "react-native": "*"
     },
     "devDependencies": {
@@ -42,4 +42,4 @@
             }
         ]
     }
-}
+} 
